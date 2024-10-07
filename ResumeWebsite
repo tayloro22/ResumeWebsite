@@ -1,4 +1,4 @@
-!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -11,54 +11,54 @@
 
 <body>
     <div id="resume">
-        <h1>Taylor Oselka, Communications Student,  </h1>
+        <img src="https://assets.onecompiler.app/42uf2beqy/42uf25fce/IMG_4982_15_1_70.jpeg"
+       <body></body>
+       
+        <h1>Taylor Oselka, Aspiring Business Woman, Surround yourself with others who inspire you </h1>
         <p>Email: <a href=#>toselka@iu.edu</a>
-        <p id="objective">I am a reserved but ambitious young professional seeking a career that fits my professional
-            skills, personality, and murderous tendencies. My good birth, excellent education and phenomenal
-            mathematical faculty have allowed me to advance the prospects of several criminal enterprises.
+        <p id="objective"> I a fourth year student and Indiana University. I am currently working towards getting my bachelors degree focusing on communication and looking forward to graudating this spring. After graduation I am interested in getting a job relating to Public Relations as that is something that I have recently found a passion for. I have always dreamed of being a entrepreneur in the furture as well and am looking forward to where that will take me. 
         <dl>
             <dt>Education
             <dd>
-                <h2>Oxford University</h2>
-                <p><strong>Major:</strong> Applied Mathematics<br />
-                    <strong>Minor:</strong> Romance Languages
+                <h2>Indiana University</h2>
+                <p><strong>Major:</strong> Communications<br />
+                <h2>Graduation Date: May 2025</h2>
                 </p>
         </dl>
         <dl>
             <dt>Skills
             <dd>
-                <h2>Office Skills</h2>
-                <p>Office and records management, database administration, event organization, customer support, travel
-                    coordination
-                <h2>Computer skills</h2>
-                <p>Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
+                <h2>Teamwork</h2>
+                <h2>Leadership</h2>
+                <h2>Customer Service</h2>
+                  <h2>Problem Solving</h2>
+                <h2>Interpersonal Communication</h2>
         </dl>
         <dl>
             <dt>Experience
             <dd>
-                <h2>Consulting Criminal<span>London 1892 – present</span></h2>
+                <h2>Oselka Marina<span> Michigan 2018 – Present</span></h2>
                 <ul>
-                    <li>Development within the criminal underworld
-                    <li>Conducted negotiations with several rogue governments
+                    <li>Worked on the gas dock to assist with boat/jet ski rentals, filled boats up with gas
+                    <li>Cleaned boats and jetskis to ensure customer satisfaction
                 </ul>
-                <h2>The Coldstream Guards<span>Army Coach, London 1889 – 1888</span></h2>
+                <h2>Carefree Boat Club<span> Michigan 2018 - Present</span></h2>
                 <ul>
-                    <li>Recruiting, training and terrorizing young men.
+                    <li>Provided a concierge sercive to boat club memebers and prepped boats for the memebers to enjoy without any worries
                 </ul>
-                <h2>Oxford University<span>Professor of Mathematics 1885 – 1888</span></h2>
+                <h2>Babysitter<span> Michigan 2016 - Present</span></h2>
                 <ul>
-                    <li>Published papers in binomials, asteroid dynamics and game theory
-                    <li>Intimidated students
+                    <li>Helped out family friends, as well as served in the nursery at kids church
                 </ul>
             </dd>
         </dl>
         <dl>
-            <dt>Hobbies
-            <dd>World domination, Social Manipulation, Murder Most Foul
+            <dt>
+            <dd>
         </dl>
         <dl>
-            <dt>References
-            <dd>Available on request
+            <dt>
+            <dd>
         </dl>
     </div>
 </body>
