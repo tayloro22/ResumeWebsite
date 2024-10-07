@@ -11,10 +11,12 @@
 
 <body>
     <div id="resume">
+      
         <img src="https://assets.onecompiler.app/42uf2beqy/42uf25fce/IMG_4982_15_1_70.jpeg"
        <body></body>
        
-        <h1>Taylor Oselka, Aspiring Business Woman, Surround yourself with others who inspire you </h1>
+        <h1 style="color:#ff6c4d; font-size:35px"
+      </h1>Taylor Oselka, Aspiring Business Woman, Surround yourself with others who inspire you</h1>
         <p>Email: <a href=#>toselka@iu.edu</a>
         <p id="objective"> I a fourth year student and Indiana University. I am currently working towards getting my bachelors degree focusing on communication and looking forward to graudating this spring. After graduation I am interested in getting a job relating to Public Relations as that is something that I have recently found a passion for. I have always dreamed of being a entrepreneur in the furture as well and am looking forward to where that will take me. 
         <dl>
